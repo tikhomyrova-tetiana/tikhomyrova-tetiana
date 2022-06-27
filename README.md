@@ -22,10 +22,16 @@ These are the languages, libraries, and frameworks which I currently work with:
 
 ## 💻 Projects
 
+### Exercise GEN 🏋️
+A full stack app where users can generate separate fitness exercises and entire workouts from a variety of options including different body parts and number of repetitions.
+
+<a href="https://github.com/tikhomyrova-tetiana/exercise_gen_frontend">client</a> | <a href="https://github.com/tikhomyrova-tetiana/exercise_gen_backend">server</a>
 
 
+### Tamagotchi CLUB :teddy_bear:
+A full stack group project for keeping track of your Tamagotchi's life with an opportunity to create clubs with other people and share your progress.
 
-
+<a href="https://github.com/ananishimoto/tamagotchi_club_frontend">client</a> | <a href="https://github.com/tikhomyrova-tetiana/tamagotchi_club_backend">server</a>
 
 
 
