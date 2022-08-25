@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Tanya and I am a full stack JavaScript developer. I am originally from Ukraine and moved to Amsterdam three months ago, I have just graduated from a Full Stack Web Development Bootcamp at [Codaisseur](http://www.codaisseur.com).
+My name is Tanya and I am a full stack JavaScript developer. I am originally from Ukraine and moved to Amsterdam recently, I have just graduated from a Full Stack Web Development Bootcamp at [Codaisseur](http://www.codaisseur.com).
 
 To check my previous experience:
 
