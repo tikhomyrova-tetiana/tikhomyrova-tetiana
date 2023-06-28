@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Tanya and I am a full stack JavaScript developer. I am originally from Ukraine and moved to Amsterdam recently, I have just graduated from a Full Stack Web Development Bootcamp at [Codaisseur](http://www.codaisseur.com).
+My name is Tanya and I am a full stack JavaScript developer. I am originally from Ukraine and moved to the Netherlands one year ago, I graduated from a Full Stack Web Development Bootcamp at [Codaisseur](http://www.codaisseur.com) and currently working as a Junior Frontend Developer.
 
 To check my previous experience:
 
@@ -9,8 +9,9 @@ To check my previous experience:
 ## Preferred technologies
 These are the technologies I currently work with:
 - Languages: Javascript
+- TypeScript
 - HTML & CSS
-- Frontend Libraries: React
+- Frontend Libraries: React, React Native
 - Backend: Node & Express
 - Version control: GIT
 - Database: Postgres
